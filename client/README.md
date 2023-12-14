@@ -1,4 +1,4 @@
-# Booking System (client side)
+# Booking System (front-end)
 
 This repository contains the client-side application for a comprehensive Booking System, designed using a modern web development stack including React, Vite, Bootstrap, Apollo Client, GraphQL, and Joi for validation. This application offers a seamless user experience for booking and managing appointments and classes.
 
