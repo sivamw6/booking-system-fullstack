@@ -1,0 +1,29 @@
+.signupPage {
+  width: 80vw;
+}
+
+.a {
+  color: #b9b9b9;
+}
+
+.a:visited {
+  color: #b9b9b9;
+}
+
+.a:hover {
+  color: #646cff;
+}
+
+.a:active {
+  color: #646cff;
+}
+
+.input {
+  height: 3em;
+}
+
+.span {
+  padding: 0.5em;
+  font-style: italic;
+  text-align: center;
+}

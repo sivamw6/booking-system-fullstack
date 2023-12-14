@@ -1,0 +1,17 @@
+.loginPage {
+  width: 80vw;
+}
+
+.a {
+  color: #b9b9b9;
+}
+
+.a:hover {
+  color: #646cff;
+}
+
+.span {
+  padding: 0.5em;
+  font-style: italic;
+  text-align: center;
+}
